@@ -1,0 +1,6 @@
+{
+  "name": "Smart Learning Progress Tracker",
+  "description": "Advanced Java Web Application with Servlets, JSP, JDBC, MySQL, MVC architecture, analytics, study planner, and Eclipse/Tomcat ready export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
